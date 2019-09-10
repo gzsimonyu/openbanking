@@ -4,7 +4,8 @@
    "token_endpoint":"https://218.205.193.9:20888/as/token.oauth2",
    "jwks_uri":"https://keystore.openbankingtest.org.uk/0015800001ZEc2CAAT/GHUF6xvXRXdrleJIoCvfk4.jwks",
    "token_endpoint_auth_methods_supported":[
-      "client_secret_post"
+      "client_secret_post",
+      "tls_client_auth"
    ],
    "registration_endpoint":"",
    "scopes_supported":[
