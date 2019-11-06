@@ -1,7 +1,7 @@
 {
-   "issuer":"https://218.205.193.9:20909/",
-   "authorization_endpoint":"https://218.205.193.9:20909/authorize",
-   "token_endpoint":"https://218.205.193.9:20888/as/token.oauth2",
+   "issuer":"https://gw-uk.dccnet.com.cn",
+   "authorization_endpoint":"https://gw-uk.dccnet.com.cn:20909/authorize",
+   "token_endpoint":"https://gw-uk.dccnet.com.cn:20888/as/token.oauth2",
    "jwks_uri":"https://keystore.openbankingtest.org.uk/0015800001ZEc2CAAT/GHUF6xvXRXdrleJIoCvfk4.jwks",
    "token_endpoint_auth_methods_supported":[
       "client_secret_basic",
